@@ -28,6 +28,13 @@ During your challenge, you will be pulled aside by a PM for a 5 minute interview
   * 2. What is an array and how does it work?
   * 3. What is a hash table and how does it work?
 
+  1 -- A computer is made of three things: a control unit, a logical processing unit, and memory. The control unit is responsible for deciding which programs get executed and when. The logical processing unit is what actually executes the programs. The memory is what is used to keep track of values, inputs and outputs that the executing programs used or calculated.
+
+  2 -- An array is a data structure that stores a sequence of elements of the same type within a contiguous block of memory. It's used because you can access data in constant time. 
+
+  3 -- A hash table uses a hash function to produce keys for values that map to either a spot in an array (open ) or a spot within a linked list or BST located a
+
+
 You will receive points at the PM's discretion based on the following criteria:
 
   * 20: Would love to have this person on my team!
